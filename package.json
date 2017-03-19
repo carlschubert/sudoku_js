@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/carlschubert/sudoku_js#readme",
   "devDependencies": {
+    "babel": "^6.23.0",
+    "chai": "^3.5.0",
     "mocha": "^3.2.0"
   }
 }
