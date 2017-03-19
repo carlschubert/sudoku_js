@@ -1,0 +1,19 @@
+{
+  "name": "sudoku_js",
+  "version": "0.0.0",
+  "description": "A sudoku solver written in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlschubert/sudoku_js.git"
+  },
+  "author": "Carl Schubert",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carlschubert/sudoku_js/issues"
+  },
+  "homepage": "https://github.com/carlschubert/sudoku_js#readme"
+}
